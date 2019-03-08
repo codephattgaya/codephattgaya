@@ -1,2 +1,1 @@
-# codephattgaya
-are ma chud gayi, mera code phatt gaya
+Arre ma chudd gayi, mera code phatt gaya.
